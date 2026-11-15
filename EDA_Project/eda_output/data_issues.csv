@@ -1,0 +1,6 @@
+severity,issue,rows_affected,recommended_action
+Low,Missing values in 'description',1,Impute/exclude per analysis; check if linked to failed detail pages
+Low,Constant column 'in_stock' (no information),200,Exclude from modelling
+Low,Constant column 'num_reviews' (no information),200,Exclude from modelling
+Low,Constant column 'detail_ok' (no information),200,Exclude from modelling
+Info,Categories with fewer than 5 books (too small for group comparisons),21,"Merge into 'Other' or exclude from category tests (this counts categories, not rows)"

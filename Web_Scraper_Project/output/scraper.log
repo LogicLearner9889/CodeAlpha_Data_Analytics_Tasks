@@ -1,0 +1,17 @@
+12:39:01 | INFO     | Page 1: https://books.toscrape.com/catalogue/page-1.html
+12:39:23 | INFO     | Page 2: https://books.toscrape.com/catalogue/page-2.html
+12:39:44 | INFO     | Page 3: https://books.toscrape.com/catalogue/page-3.html
+12:40:06 | INFO     | Exported 60 records -> output\books.csv, output\books.json, output\books.db
+12:40:06 | INFO     | Done: {'pages': 3, 'saved': 60, 'partial': 0, 'failed': 0, 'duplicates': 0}
+12:42:40 | INFO     | Page 1: https://books.toscrape.com/catalogue/page-1.html
+12:43:02 | INFO     | Page 2: https://books.toscrape.com/catalogue/page-2.html
+12:43:23 | INFO     | Page 3: https://books.toscrape.com/catalogue/page-3.html
+12:43:44 | INFO     | Page 4: https://books.toscrape.com/catalogue/page-4.html
+12:44:05 | INFO     | Page 5: https://books.toscrape.com/catalogue/page-5.html
+12:44:26 | INFO     | Page 6: https://books.toscrape.com/catalogue/page-6.html
+12:44:47 | INFO     | Page 7: https://books.toscrape.com/catalogue/page-7.html
+12:45:08 | INFO     | Page 8: https://books.toscrape.com/catalogue/page-8.html
+12:45:29 | INFO     | Page 9: https://books.toscrape.com/catalogue/page-9.html
+12:45:50 | INFO     | Page 10: https://books.toscrape.com/catalogue/page-10.html
+12:46:11 | INFO     | Exported 200 records -> output\books.csv, output\books.json, output\books.db
+12:46:11 | INFO     | Done: {'pages': 10, 'saved': 200, 'partial': 0, 'failed': 0, 'duplicates': 0}
